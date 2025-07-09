@@ -6,13 +6,12 @@ AtliQ is a company that sells hardware like PCs, Mouse, Printers, etc. to differ
 
 
 Sales Report :
-Project objective: 
 
-1. Create a customer performance report
+1. Customer performance report
 
-2. Conduct a comprehensive comparison between market performance vs sales targets
+2. Market performance vs sales targets
    
-3. Product analysis - Top 10 products
+3. Product analysis - Top 10 products, TOP 5 and Bottom 5 products
 
 Purpose: The sales analytics helps the businesses to monitor and evaluate their sales activities and performance.
 
@@ -21,7 +20,6 @@ Importance: Business can identify sales patterns and track key performance indic
 Role: Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
 
 Finance Report :
-Project objective:
 
 1. Create Profit and Loss (P&L) reports by Fiscal Year & Months
 
